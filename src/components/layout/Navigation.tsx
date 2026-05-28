@@ -47,7 +47,17 @@ export const Navigation = () => {
                 className={`text-xs font-bold uppercase tracking-[0.2em] transition-colors relative group ${isActive ? 'text-accent' : 'hover:text-accent'}`}
               >
                 {item.label}
-                <span className={`absolute -bottom-1 left-0 h-[1px] bg-accent transition-all ${isActive ? 'w-full' : 'w-0 group-hover:w-full'}`} />
+                <span 
+                  className={`absolute -bottom-1 left-0 h-1 bg-accent transition-all duration-300 ease-out ${isActive ? 'w-full' : 'w-0 group-hover:w-full'}`} 
+                  style={{
+                    maskImage: `url("data:image/svg+xml,%3Csvg width='16' height='6' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 3 Q4 1 8 3 T16 3' fill='none' stroke='black' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E")`,
+                    WebkitMaskImage: `url("data:image/svg+xml,%3Csvg width='16' height='6' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 3 Q4 1 8 3 T16 3' fill='none' stroke='black' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E")`,
+                    maskRepeat: 'repeat-x',
+                    WebkitMaskRepeat: 'repeat-x',
+                    maskPosition: 'center',
+                    WebkitMaskPosition: 'center'
+                  }}
+                />
               </NavLink>
             );
           })}

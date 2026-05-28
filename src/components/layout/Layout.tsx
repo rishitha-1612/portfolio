@@ -22,10 +22,17 @@ export const Layout = () => {
 
   return (
     <div ref={containerRef} className="relative min-h-screen flex flex-col bg-black text-white selection:bg-accent selection:text-white font-sans">
-      {/* Progress Bar */}
+      {/* Squiggly Progress Bar */}
       <motion.div
-        className="fixed top-0 left-0 right-0 h-1 bg-accent z-[100] origin-left shadow-[0_0_15px_var(--color-accent)] pointer-events-none"
-        style={{ scaleX }}
+        className="fixed top-0 left-0 right-0 h-3 bg-accent z-[100] pointer-events-none opacity-80"
+        style={{
+          maskImage: `url("data:image/svg+xml,%3Csvg width='40' height='10' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 5 Q10 2 20 5 T40 5' fill='none' stroke='black' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E")`,
+          WebkitMaskImage: `url("data:image/svg+xml,%3Csvg width='40' height='10' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 5 Q10 2 20 5 T40 5' fill='none' stroke='black' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E")`,
+          maskRepeat: 'repeat-x',
+          WebkitMaskRepeat: 'repeat-x',
+          clipPath: useTransform(scaleX, s => `inset(0 ${100 - (s as number) * 100}% 0 0)`),
+          filter: 'drop-shadow(0 0 4px var(--color-accent))'
+        }}
       />
 
       {/* Grid Overlay */}
