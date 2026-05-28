@@ -3,7 +3,7 @@ import { motion } from 'motion/react';
 import { SectionHeading } from '../components/ui/SectionHeading';
 import { RESUME_DATA } from '../constants';
 
-export const Research = () => {
+export const Experience = () => {
   return (
     <motion.section 
       className="py-40"

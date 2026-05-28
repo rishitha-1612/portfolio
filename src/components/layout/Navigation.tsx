@@ -23,7 +23,7 @@ export const Navigation = () => {
     { label: 'About', path: '/about' },
     { label: 'Skills', path: '/skills' },
     { label: 'Projects', path: '/projects' },
-    { label: 'Research', path: '/research' },
+    { label: 'Experience', path: '/experience' },
     { label: 'Certifications', path: '/certifications' },
     { label: 'Contact', path: '/contact' }
   ];
