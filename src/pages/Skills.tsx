@@ -15,15 +15,15 @@ export const Skills = () => {
       <SectionHeading number="02">Skills</SectionHeading>
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-12">
         {[
-          { title: "Languages", data: RESUME_DATA.skills.languages },
-          { title: "Web Technologies", data: RESUME_DATA.skills.web },
-          { title: "Frameworks & Libraries", data: RESUME_DATA.skills.frameworks },
-          { title: "AI & Data Science", data: RESUME_DATA.skills.ai },
-          { title: "Core Concepts", data: RESUME_DATA.skills.core },
+          { title: "Programming Languages", data: RESUME_DATA.skills.languages },
+          { title: "Frontend", data: RESUME_DATA.skills.frontend },
+          { title: "Backend", data: RESUME_DATA.skills.backend },
           { title: "Databases", data: RESUME_DATA.skills.databases },
-          { title: "Data Visualization", data: RESUME_DATA.skills.viz },
-          { title: "Tools", data: RESUME_DATA.skills.tools },
-          { title: "Soft Skills", data: RESUME_DATA.skills.soft }
+          { title: "Software Development", data: RESUME_DATA.skills.softwareDev },
+          { title: "Cloud & Tools", data: RESUME_DATA.skills.cloud },
+          { title: "Core Computer Science", data: RESUME_DATA.skills.core },
+          { title: "AI & Data Science", data: RESUME_DATA.skills.ai },
+          { title: "Soft Skills", data: RESUME_DATA.skills.soft },
         ].map((category, idx) => (
           category.data && (
             <motion.div

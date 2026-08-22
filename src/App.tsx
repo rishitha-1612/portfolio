@@ -16,6 +16,7 @@ const AnimatedRoutes = () => {
   
   return (
     <AnimatePresence mode="wait">
+      {/* @ts-ignore - React Router v6 Routes key warning in React 19 */}
       <Routes location={location} key={location.pathname}>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
