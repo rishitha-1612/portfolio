@@ -11,7 +11,7 @@ export const DownloadButterflyButton = () => {
     
     // Trigger actual download (replace '#' with your actual resume URL)
     const link = document.createElement('a');
-    link.href = '#'; 
+    link.href = '/Rishitha_Rasineni_cv.pdf'; 
     link.download = 'Rishitha_Rasineni_CV.pdf';
     document.body.appendChild(link);
     link.click();
