@@ -376,56 +376,64 @@ export const RESUME_DATA = {
       issuer: "ANNAM.AI & Vicharanashala Lab",
       year: "Feb 2025",
       description: "Successfully completed a 2.5-month virtual internship focused on MERN Stack Development. Gained hands-on experience working with MongoDB, Express.js, React.js, Node.js, REST APIs, and Git to build scalable full-stack applications.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_mern-fullstackdevelopment-reactjs-activity-7492996701721624576-0wOJ"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_mern-fullstackdevelopment-reactjs-activity-7492996701721624576-0wOJ",
+      image: "/MERN_STACK.jpg"
     },
     {
       title: "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
       issuer: "Oracle University",
       year: "2025",
       description: "Earned the Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate certification from Oracle University. Gained expertise in AI concepts, Oracle Cloud Infrastructure (OCI), and building intelligent, scalable, and secure cloud-based solutions.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_oraclecertified-oraclecloud-aifoundations-activity-7386391544800608256-eKXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfSMPgBQFQf4ReuwHe-2FGP17IWOR3UpAM"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_oraclecertified-oraclecloud-aifoundations-activity-7386391544800608256-eKXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfSMPgBQFQf4ReuwHe-2FGP17IWOR3UpAM",
+      image: "/ORACLE.jpg"
     },
     {
       title: "Startup School: Prompt to Prototype",
       issuer: "Google for Startups",
       year: "2025",
       description: "Developed skills in transforming ideas into functional prototypes using AI-driven approaches, with focus on prompt engineering and scalable solution design.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_googleforstartups-startupschool-ai-activity-7432066473952673792-7zD1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfSMPgBQFQf4ReuwHe-2FGP17IWOR3UpAM"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_googleforstartups-startupschool-ai-activity-7432066473952673792-7zD1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfSMPgBQFQf4ReuwHe-2FGP17IWOR3UpAM",
+      image: "/GOOGLESTARTUP.jpg"
     },
     {
       title: "AI Tools and ChatGPT Workshop",
       issuer: "be10x",
       year: "2025",
       description: "Successfully completed the AI Tools and ChatGPT Workshop conducted by be10x, gaining practical experience in applying AI for productivity and workflow automation. Learned to leverage AI tools for rapid presentation creation, efficient data analysis, and accelerated coding and debugging tasks.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_artificialintelligence-chatgpt-techinnovation-activity-7386387609968820224-XgAp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfSMPgBQFQf4ReuwHe-2FGP17IWOR3UpAM"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_artificialintelligence-chatgpt-techinnovation-activity-7386387609968820224-XgAp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfSMPgBQFQf4ReuwHe-2FGP17IWOR3UpAM",
+      image: "/B10X.jpg"
     },
     {
       title: "Data Science with Python Training 2022",
       issuer: "Infosys Springboard",
       year: "Oct 2025",
       description: "Successfully completed the Data Science with Python Training 2022 course offered by Infosys Springboard. Gained practical knowledge in data analysis, Python programming, and applying data science techniques to solve analytical problems, building a strong foundation for data-driven applications.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_datascience-python-infosys-activity-7386394953087664129-j0nf"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_datascience-python-infosys-activity-7386394953087664129-j0nf",
+      image: "/INFOSYS_DATASCIENCE.jpg"
     },
     {
       title: "Responsive Web Design Developer Certification",
       issuer: "freeCodeCamp",
       year: "2025",
       description: "Successfully earned the Responsive Web Design Developer Certification from freeCodeCamp through extensive hands-on learning and project-based practice. Developed proficiency in building responsive, accessible, and user-friendly web interfaces using modern HTML and CSS principles.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_responsivewebdesign-freecodecamp-webdevelopment-activity-7386396151496916992-De2N"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_responsivewebdesign-freecodecamp-webdevelopment-activity-7386396151496916992-De2N",
+      image: "/FRONTEND.jpg"
     },
     {
       title: "No Code AI Agent – n8n for Gmail Parsing and Automation",
       issuer: "Capabl / CSI",
       year: "Oct 2025",
       description: "Participated in the 'No Code AI Agent' industrial interaction session organized by Capabl in association with CSI. Gained practical experience in designing AI workflows and automating Gmail parsing using no-code tools, enhancing understanding of modern AI automation platforms.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_nocode-ai-automation-activity-7386398115114774528-M5SU"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_nocode-ai-automation-activity-7386398115114774528-M5SU",
+      image: "/CAPABL.jpg"
     },
     {
       title: "Artificial Intelligence & Data Analytics Virtual Internship",
       issuer: "Green Skills (AICTE, Shell India & Edunet)",
       year: "Aug 2025",
       description: "Successfully completed a 4-week virtual internship under the Skills4Future program, focusing on Artificial Intelligence, Data Analytics, and Green Skills. Gained hands-on experience in AI-driven analytics, sustainable technology practices, and industry-oriented project development.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_green-skills-internship-by-aicte-shell-activity-7386403499099488256-_40f"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_green-skills-internship-by-aicte-shell-activity-7386403499099488256-_40f",
+      image: "/gfg_python.jpg"
     }
   ],
   research: [
@@ -434,13 +442,15 @@ export const RESUME_DATA = {
       issuer: "IRJET",
       year: "Apr 2026",
       description: "Published a research paper on an AI-powered automated essay scoring system. Developed a BERT-based framework integrating SHAP and Attention Visualization to enhance interpretability and transparency, exploring key domains like NLP, XAI, and intelligent educational assessments.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_artificialintelligence-machinelearning-deeplearning-activity-7465827860763627520-yI1u"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_artificialintelligence-machinelearning-deeplearning-activity-7465827860763627520-yI1u",
+      image: "/RESEARCH1.jpg"
     },
     {
       title: "Multi-Dimensional Dialogue Summarization System (MDSS)",
       issuer: "ICCCDA'26",
       year: "",
-      description: "Presented a research paper titled 'Multi-Dimensional Dialogue Summarization System (MDSS): A Hierarchical Approach to Conversational Analysis' at the 2nd International Conference on Cognitive Computing and Data Analytics."
+      description: "Presented a research paper titled 'Multi-Dimensional Dialogue Summarization System (MDSS): A Hierarchical Approach to Conversational Analysis' at the 2nd International Conference on Cognitive Computing and Data Analytics.",
+      image: "/RESEARCH2.jpg"
     }
   ],
   achievements: [
@@ -449,7 +459,8 @@ export const RESUME_DATA = {
       issuer: "DSATM",
       year: "Sep 2025",
       description: "Secured 3rd place at AI-VERSE (Scale X) hosted by DSATM for developing 'KisaanKonnect,' an AI-powered smart agriculture assistant. Built features including crop advisory, plant disease detection, market insights, and support for low-connectivity environments, gaining valuable experience in applied AI and problem-solving.",
-      link: "https://www.linkedin.com/posts/akashhiremath99_ai-hackathon-agriculture-ugcPost-7443491825937735680-rbLY"
+      link: "https://www.linkedin.com/posts/akashhiremath99_ai-hackathon-agriculture-ugcPost-7443491825937735680-rbLY",
+      image: "/sclaex.png"
     }
   ],
   hackathons: [
@@ -458,35 +469,40 @@ export const RESUME_DATA = {
       issuer: "Team AVIS",
       year: "Nov 2025",
       description: "Developed 'Insight Weaver,' an AI-powered scientific discovery copilot using Gemma 4B and E2B models. Built a retrieval-first reasoning pipeline with scientific entity extraction, knowledge graphs, and GraphRAG. Leveraged FastAPI, React, Ollama, ChromaDB, PyMuPDF, and SciSpaCy to create an intelligent research assistant.",
-      link: "https://www.linkedin.com/posts/venkat-baba-yemineni-49a7612b4_google-gemma-gemma4-ugcPost-7462508909518303233-0cY9"
+      link: "https://www.linkedin.com/posts/venkat-baba-yemineni-49a7612b4_google-gemma-gemma4-ugcPost-7462508909518303233-0cY9",
+      image: "/kaggle_hackathon.png"
     },
     {
       title: "CareerDNA – ArtPark CodeForge Hackathon",
       issuer: "IISc Bangalore",
       year: "Oct 2025",
       description: "Developed 'CareerDNA', an AI-driven platform providing personalized career guidance based on users' skills and interests. Designed the solution to deliver structured recommendations over generic suggestions, and collaborated with a multidisciplinary team to build a functional prototype within the hackathon timeline.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_we-recently-worked-on-careerdna-as-part-of-activity-7446446533799112704-xPVr"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_we-recently-worked-on-careerdna-as-part-of-activity-7446446533799112704-xPVr",
+      image: "/ARTPARK.jpg"
     },
     {
       title: "RIFT ’26 – 24-Hour Hackathon | Graph-Based Financial Crime Detection Engine",
       issuer: "PhysicsWallah",
       year: "Aug 2025",
       description: "Participated in the 24-hour RIFT ’26 Hackathon by PhysicsWallah, developing a Graph-Based Financial Crime Detection Engine to identify money-muling networks. Built a working prototype capable of analyzing transaction data to detect suspicious patterns through graph-based relationships, strengthening skills in rapid prototyping and debugging.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_hackathon-rift26-financialcrime-activity-7432677261469790208-8fB-"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_hackathon-rift26-financialcrime-activity-7432677261469790208-8fB-",
+      image: "/RIFT.png"
     },
     {
       title: "IndiAignite: Prototyping AI Solutions for Atmanirbhar Bharat",
       issuer: "RV Institute of Technology and Management",
       year: "Feb 2026",
       description: "Received a Certificate of Participation at IndiAignite: Prototyping AI Solutions for Atmanirbhar Bharat, hosted by RV Institute of Technology and Management, Bengaluru. Enhanced practical knowledge in AI-driven problem solving, rapid prototyping, and technical presentations while collaborating in an innovation-focused environment.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_ai-innovation-atmanirbharbharat-activity-7432067514496503808-tBZ4"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_ai-innovation-atmanirbharbharat-activity-7432067514496503808-tBZ4",
+      image: "/INDIAGNITE.jpg"
     },
     {
       title: "6th Kharagpur Data Science Hackathon – Round 1",
       issuer: "IIT Kharagpur",
       year: "2025",
       description: "Successfully participated in Round 1 of the 6th Kharagpur Data Science Hackathon organized by the Kharagpur Data Analytics Group, IIT Kharagpur. Applied data science concepts to solve challenging problems in a national-level competitive environment, gaining valuable exposure to real-world workflows.",
-      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_datascience-hackathon-iitkharagpur-activity-7432066755327385600-Ndaa"
+      link: "https://www.linkedin.com/posts/rishitha-rasineni-16d2006_datascience-hackathon-iitkharagpur-activity-7432066755327385600-Ndaa",
+      image: "/IITKHARAGPUR.jpg"
     }
   ]
 };
